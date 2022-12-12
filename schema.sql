@@ -64,12 +64,11 @@ CREATE TABLE visits (
     date_of_visit DATE
 );
 
--- week2 day1
 
--- Add an email column to your owners table
-ALTER TABLE owners ADD COLUMN email VARCHAR(120);
 
---Improving database performance by indexing
+-- ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+
 
 CREATE INDEX visits_animal_id ON visits(animals_id);
 CREATE INDEX visits_vets_id ON visits(vets_id);
