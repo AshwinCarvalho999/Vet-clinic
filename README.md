@@ -1,5 +1,8 @@
 <!-- TABLE OF CONTENTS -->
 
+# Database Schema Diagram
+![image](https://user-images.githubusercontent.com/89456866/207255798-95e36eee-0484-4aeb-86b4-427c6a71f0a0.png)
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
